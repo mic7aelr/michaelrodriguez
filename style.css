@@ -6,9 +6,8 @@
 html {
     border: 1px solid white;
     border-radius: 3px;
-    margin: 2.5%;
     padding: 0;
-    height: 90.5%; 
+    height: 90; 
 }
 
 .page-title {
@@ -33,9 +32,9 @@ html {
 .tabs{
     color: white;
     opacity: 0.75;
-    margin: 2%;
     position: fixed;
-    padding: 2.5%;
+    padding: 2%;
+    height: 12.5%;
     bottom: 0;
     left: 0;
     vertical-align: bottom;
